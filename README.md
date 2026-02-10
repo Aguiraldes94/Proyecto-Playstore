@@ -4,7 +4,7 @@
 
 ---
 ## 📄 Presentación del Proyecto
-Puedes ver la presentación ejecutiva aquí: [Descargar PDF](./Proyecto_Final_AlbertoGuiraldes.pdf)
+Puedes ver la presentación ejecutiva aquí: [Descargar Presentación PDF](./Proyecto_Final_AlbertoGuiraldes.pdf)
 --
 
 ## 📊 1. Resultados Detallados del Modelo
