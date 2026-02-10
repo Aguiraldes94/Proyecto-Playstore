@@ -3,6 +3,9 @@
 **Autor:** Alberto Güiraldes Jeria | **Bootcamp:** Ciencia de Datos e IA (UDD)
 
 ---
+## 📄 Presentación del Proyecto
+Puedes ver la presentación ejecutiva aquí: [Descargar PDF](./Proyecto_Final_AlbertoGuiraldes.pdf)
+--
 
 ## 📊 1. Resultados Detallados del Modelo
 
@@ -58,6 +61,8 @@ Como Ingeniero Comercial con foco en gestión de riesgo, la conclusión del proy
 
 El modelo demuestra que un desarrollador puede aumentar sus probabilidades de éxito en un **30% adicional** simplemente ajustando el tamaño del activo (MB) y eliminando la fricción del precio. El Coeficiente de **Gini de 0.61** valida que este sistema es una herramienta de *due diligence* robusta, capaz de filtrar proyectos de inversión tecnológica de forma cuantitativa, minimizando la exposición a Falsos Positivos y maximizando la eficiencia en la asignación de capital de marketing.
 
+
+
 ---
 **Desplegado con:** Python (Flask), Scikit-Learn, XGBoost y Joblib.  
 **Evaluación:** Proyecto Final Módulo 7 - UDD.
@@ -67,3 +72,5 @@ El modelo demuestra que un desarrollador puede aumentar sus probabilidades de é
 1. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
+
+   
