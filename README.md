@@ -9,7 +9,7 @@ Puedes ver la presentación ejecutiva aquí: [Descargar Presentación PDF](./Pro
 
 ## 📊 1. Resultados Detallados del Modelo
 
-El modelo final no solo predice, sino que discrimina con una precisión institucional. Tras el proceso de optimización, el algoritmo **XGBoost** alcanzó los siguientes niveles de confianza:
+El modelo final no solo predice, sino que discrimina con una alta precisión. Tras el proceso de optimización, el algoritmo **XGBoost** alcanzó los siguientes niveles de confianza:
 
 | Métrica | Valor | Significado de Negocio |
 | :--- | :--- | :--- |
