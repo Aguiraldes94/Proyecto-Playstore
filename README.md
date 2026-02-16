@@ -28,7 +28,7 @@ El modelo se configuró bajo un enfoque **conservador**:
 
 ## ⚙️ 2. Arquitectura Técnica: Hiperparametrización y Ensamblaje
 
-Para este proyecto, se evitó el uso de modelos "out of the box", implementando un pipeline de optimización robusto:
+Para este proyecto, se implementó un pipeline de optimización robusto:
 
 ### A. Tuning de Hiperparámetros (GridSearchCV)
 No nos conformamos con los ajustes por defecto. Se realizó una búsqueda exhaustiva para encontrar el equilibrio entre sesgo y varianza:
@@ -57,7 +57,7 @@ Mediante el cálculo de **Importancia Relativa (F-Score Gain)**, determinamos lo
 ---
 
 ## 🧠 4. Conclusión Estratégica
-Como Ingeniero Comercial con foco en gestión de riesgo, la conclusión del proyecto es clara: **El éxito en la Play Store es predecible, pero altamente sensible a la barrera del pago.**
+La conclusión del proyecto es clara: **El éxito en la Play Store es predecible, pero altamente sensible a la barrera del pago.**
 
 El modelo demuestra que un desarrollador puede aumentar sus probabilidades de éxito en un **30% adicional** simplemente ajustando el tamaño del activo (MB) y eliminando la fricción del precio. El Coeficiente de **Gini de 0.61** valida que este sistema es una herramienta de *due diligence* robusta, capaz de filtrar proyectos de inversión tecnológica de forma cuantitativa, minimizando la exposición a Falsos Positivos y maximizando la eficiencia en la asignación de capital de marketing.
 
