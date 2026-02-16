@@ -72,5 +72,12 @@ El modelo demuestra que un desarrollador puede aumentar sus probabilidades de é
 1. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
+   
+### Cómo probar la API (Deployment Local)
+
+1. Ejecutar la aplicación: `python flask_app.py`
+2. La API estará disponible en: `http://127.0.0.1:5000/predict`
+3. Usar **Talend API Tester** enviando un método **POST** con un JSON de prueba.
+   
 
    
